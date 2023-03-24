@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "OptiSembleForecasting"]
+	path = OptiSembleForecasting
+	url = https://github.com/cran/OptiSembleForecasting
+	shallow = true
+	registered = true
+[submodule "TSANN"]
+	path = TSANN
+	url = https://github.com/cran/TSANN
+	shallow = true
+	registered = true
