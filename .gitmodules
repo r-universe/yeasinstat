@@ -13,3 +13,13 @@
 	url = https://github.com/cran/TSANN
 	shallow = true
 	registered = true
+[submodule "WaveletETS"]
+	path = WaveletETS
+	url = https://github.com/cran/WaveletETS
+	shallow = true
+	registered = true
+[submodule "WaveletKNN"]
+	path = WaveletKNN
+	url = https://github.com/cran/WaveletKNN
+	shallow = true
+	registered = true
