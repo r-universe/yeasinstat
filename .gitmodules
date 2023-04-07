@@ -23,3 +23,8 @@
 	url = https://github.com/cran/WaveletKNN
 	shallow = true
 	registered = true
+[submodule "WaveletLSTM"]
+	path = WaveletLSTM
+	url = https://github.com/cran/WaveletLSTM
+	shallow = true
+	registered = true
