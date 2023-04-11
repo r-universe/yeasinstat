@@ -28,3 +28,8 @@
 	url = https://github.com/cran/WaveletLSTM
 	shallow = true
 	registered = true
+[submodule "WeightedEnsemble"]
+	path = WeightedEnsemble
+	url = https://github.com/cran/WeightedEnsemble
+	shallow = true
+	registered = true
