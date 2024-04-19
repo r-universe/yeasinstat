@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "InterNL"]
+	path = InterNL
+	url = https://github.com/cran/InterNL
 [submodule "OptiSembleForecasting"]
 	path = OptiSembleForecasting
 	url = https://github.com/cran/OptiSembleForecasting
