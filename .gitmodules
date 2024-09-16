@@ -5,9 +5,6 @@
 [submodule "InterNL"]
 	path = InterNL
 	url = https://github.com/cran/InterNL
-[submodule "OptiSembleForecasting"]
-	path = OptiSembleForecasting
-	url = https://github.com/cran/OptiSembleForecasting
 [submodule "TSANN"]
 	path = TSANN
 	url = https://github.com/cran/TSANN
