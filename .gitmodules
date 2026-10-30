@@ -5,6 +5,9 @@
 [submodule "DWaveNARDL"]
 	path = DWaveNARDL
 	url = https://github.com/cran/DWaveNARDL
+[submodule "IFARIMA"]
+	path = IFARIMA
+	url = https://github.com/cran/IFARIMA
 [submodule "InterNL"]
 	path = InterNL
 	url = https://github.com/cran/InterNL
