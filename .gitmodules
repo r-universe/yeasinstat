@@ -11,6 +11,9 @@
 [submodule "IFARIMA"]
 	path = IFARIMA
 	url = https://github.com/cran/IFARIMA
+[submodule "IFLSTM"]
+	path = IFLSTM
+	url = https://github.com/cran/IFLSTM
 [submodule "InterNL"]
 	path = InterNL
 	url = https://github.com/cran/InterNL
